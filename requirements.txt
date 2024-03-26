@@ -1,0 +1,6 @@
+pillow
+requests
+filestack-python
+google-generativeai
+gunicorn 
+pytelegrambotapi
