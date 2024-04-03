@@ -4,3 +4,4 @@ filestack-python
 google-generativeai
 gunicorn 
 pytelegrambotapi
+flask
