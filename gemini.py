@@ -108,4 +108,4 @@ def get_tweet():
     return  str(model.generate_content(prompt_parts).text)
 
 
-# print(get_tweet())
+

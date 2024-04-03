@@ -21,11 +21,3 @@ def getText(msg):
 
 
 bot.infinity_polling()
-# tweet = get_tweet()
-# print(len(tweet))
-# print(tweet)
-# while (tweet.find('masculinesage')  != -1):
-#     tweet = get_tweet()
-#     print(len(tweet))
-#     print(tweet)
-# newtweett(tweet)
