@@ -11,4 +11,3 @@ app = Flask(__name__)
 def home():
     return  get_tweet()
 
-app.run(host='0.0.0.0')

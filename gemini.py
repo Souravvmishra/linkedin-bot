@@ -96,7 +96,7 @@ prompt_parts = [
   "output :The reason women don't have to pay to enter clubs is because they're the product.\n\nYou can hate it but it's true",
   "input: write a random unique advice by masculinesage twitter account.",
   "output :I've said this before, but it bears repeating:\n\n99% of the things you worry about can be solved by getting physically stronger, making more money, and a bit of meditation.",
-  "input: write a random unique advice by masculinesage twitter account as an developer or startup founder or engineer.",
+  "input: write a random unique advice by masculinesage twitter account as an developer or startup founder or engineer. Write things that are in  trend now a days",
   "output: ",
 ]
 
@@ -106,6 +106,3 @@ prompt_parts = [
 
 def get_tweet():
     return  str(model.generate_content(prompt_parts).text)
-
-
-
