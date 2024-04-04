@@ -9,5 +9,4 @@ app = Flask(__name__)
 @app.route('/', methods=['GET'])
 # Define a function for the route
 def home():
-    return  get_tweet()
-
+    return get_tweet()
